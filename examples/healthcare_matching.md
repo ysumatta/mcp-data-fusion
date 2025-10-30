@@ -1,6 +1,8 @@
-# Healthcare Data Matching Example
+# Use Case Example: Healthcare Data Matching
 
-Real-world case: 100% matching achieved on French healthcare data.
+**Note:** This is ONE real-world example. The same toolkit works for ANY datasets (customers/companies, products/suppliers, employees/departments, etc.)
+
+Real-world case: 100% matching achieved on medical professionals data.
 
 ## Problem
 
